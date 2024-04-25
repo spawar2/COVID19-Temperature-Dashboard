@@ -1,5 +1,5 @@
 # COVID19-Temperature-Dashboard
-[R:shiny, highcharter, dplyr]
+[R:shiny, highcharter, dplyr, UI, Server]
 [Paper Link:](https://www.medrxiv.org/content/10.1101/2020.03.29.20044461v1)
 [Link](https://yalegenomics.shinyapps.io/deployment/?_ga=2.91441946.1803750112.1677552931-1693957918.1677552931)
 
