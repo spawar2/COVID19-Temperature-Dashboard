@@ -9,5 +9,6 @@ https://campuspress.yale.edu/shrikantpawar/
 <img width="1428" alt="Screenshot 2023-02-27 at 11 10 33 PM" src="https://user-images.githubusercontent.com/25118302/221751582-1ba0cd37-3267-4dff-ba92-74224aa9d8d1.png">
 app.R: Shiny user interface for coronavirus-19 incidence, prevalence, deaths cases & Temperature.
 selected function(hcmap, fluidPage, renderHighchart, shinyApp).
-†
+†![download (1)](https://github.com/user-attachments/assets/13602cad-2181-436d-bd1d-fb07968ca9b7)
+
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
